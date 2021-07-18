@@ -1,0 +1,1 @@
+SqlState	"42S22"	string mysql .net
